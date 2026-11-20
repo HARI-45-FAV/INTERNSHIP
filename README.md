@@ -2,7 +2,7 @@ To: evaluation_cse@iitp.ac.in
 CC: bala_2301ai05@iitp.ac.in
 Subject: Summer Internship Evaluation – K Bala Sri Hari Prasad (2301AI05)
 
-Dear IIT Patna Evaluation Team,
+Hi,
 
 Thank you for reaching out. Below is the summer internship evaluation for K Bala Sri Hari Prasad, who interned at Optum.
 
@@ -15,5 +15,4 @@ Bala developed a user-friendly interface for the Anomaly Monitoring System and i
 I have attached the official Optum internship evaluation report, which records Bala’s overall rating of 5 out of 5 (Exceeds Expectations). Please consider the attached report alongside the score above when recording his internship evaluation.
 
 Best regards,
-[Sender’s Name]
 Optum
